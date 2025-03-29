@@ -63,17 +63,18 @@ Hi there! I'm **Bramwel Juma Barasa**, a passionate **Software Developer** and *
 - Worked on **Java-based applications**.
 - Developed **full-stack solutions** integrating frontend and backend technologies.
 
-## Education 🎓
+## Education 
 **Bachelor of Science in Computer Science**  
-[University Name], Kenya (Expected 2025)  
-- Final Year Research Project: **Reducing Accidents on a Steep Slope**
+[Multimedia University of Kenya], Kenya (Expected 2025)  
+- Final Year Research Project: **Blockchain property registry**
 
 ## Certifications & Training 🏆
 - **AWS Cloud Practitioner Certification** (Ongoing)
 - **Spring Boot & Hibernate Masterclass**
 - **Blockchain Fundamentals & Cryptography**
+- **Google IT support **
 
-## Languages 🌐
+## Languages 
 - English (Fluent)
 - Swahili (Native)
 
